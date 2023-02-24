@@ -1,0 +1,117 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #dfdff0;
+}
+.wrapper {
+  display: flex;
+padding-left: 50px;
+
+  width: 1200px;
+  display: flex;
+  justify-content: center;
+  
+  margin: 0 auto;
+  background-color: white;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.308);
+  color: rgba(66, 16, 132, 0.747);
+}
+
+.Kontakt2 {
+text-align: center;
+color:  rgba(170, 29, 135, 0.671);
+margin-top: 15%;
+
+}
+
+
+.daty {
+  color: rgb(214, 7, 162);
+}
+
+
+.omnie {
+  margin: 7px;
+  padding: 20px;
+  color: rgb(0, 0, 0);
+
+}
+
+
+.spacedots {
+ padding-bottom: 1%;
+}
+
+.main-opis {
+  background-color: white;
+  margin: 20px;
+  padding: 20px;
+  font-size: 20px;
+  padding-right: 60px;
+
+}
+
+.main-opis2 {
+  background-color: white;
+
+  padding: 5px;
+}
+
+.comniekreci {
+  text-align: center;
+color:  rgba(170, 29, 135, 0.671);
+margin-top: -10%;
+
+}
+
+
+.lewa {
+  margin: 7px;
+  padding: 20px;
+  color: rgba(170, 29, 135, 0.671);
+}
+
+.miekkie {
+
+  margin-top: 15%;
+}
+
+.doświadczenie {
+  margin: 50px;
+}
+
+.photo {
+  margin-top: 25px;
+}
+
+.dots {
+  color: rgb(218, 37, 172);
+  
+}
+
+
+.pasek {
+  background-color:  rgba(110, 102, 226, 0.301);
+}
+
+.umiejętności {
+  color: black;
+}
+
+.nagłówek {
+  justify-content: center;
+  display: flex;
+  background-color:  rgba(110, 102, 226, 0.301);
+}
+
+aside {
+  width: 370px;
+  background: rgba(110, 102, 226, 0.301);
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.308);
+
+}
+
+.contact__link {
+  text-decoration: none;
+  color: black;
+  font-weight: 700;
+}
